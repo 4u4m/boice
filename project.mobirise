@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "BOICE",
+    "name": "Supplate",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
@@ -13,8 +13,8 @@
         "infoColor": "#3498db",
         "warningColor": "#f1c40f",
         "dangerColor": "#e74c3c",
-        "titleFont": "Arvo",
-        "subtitleFont": "Montserrat",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Open Sans",
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -29,7 +29,12 @@
     "versionFirst": "4.6.5",
     "uniqCompNum": 27,
     "versionPublish": "4.6.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -48,7 +53,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Arvo', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
+              "font-size": "22px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -100,7 +108,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -127,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BOICE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Supplate</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -162,8 +170,8 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "Rainbow<br>Voice<br>",
-          "text": "<span style=\"font-style: normal;\">국내 최초 성우 전문 에이전시</span>",
+          "title": "SNS 연동형<br>홈페이지<br>",
+          "text": "<span style=\"font-style: normal;\">SNS 연동 및 공유형 최적화 홈페이지</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [

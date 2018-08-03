@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-
 
 
 
@@ -22,7 +22,7 @@ textarea,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arvo', serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -36,7 +36,7 @@ textarea,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arvo', serif;
 }
 .btn {
   border-radius: 2.6em;
@@ -50,22 +50,22 @@ textarea,
 .nav-tabs .nav-link,
 .mbr-testimonial .card-block,
 .table th {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arvo', serif;
 }
 .mbr-author-desc {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arvo', serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -622,11 +622,11 @@ blockquote {
 }
 /*countdown*/
 .countdown .period {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .countdown .number {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arvo', serif;
 }
 .countdown1 .number-wrap {
   border-color: #f39c12;
@@ -657,7 +657,7 @@ blockquote {
   color: #f39c12;
 }
 .shop1 .shop-item-price {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .shop1 .mbr-gallery-item:hover .item_overlay {
   background: #f39c12;
@@ -671,7 +671,7 @@ blockquote {
 .person-info .title3,
 .team1 .title4,
 .person-info .title4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arvo', serif;
 }
 .team1 .subtitle1,
 .person-info .subtitle1,
@@ -681,7 +681,7 @@ blockquote {
 .person-info .subtitle3,
 .team1 .subtitle4,
 .person-info .subtitle4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .team1 .text1,
 .person-info .text1,
@@ -703,16 +703,16 @@ blockquote {
   font-family: 'Open Sans', sans-serif;
 }
 .features9 .timeline-panel h4 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Arvo', serif;
 }
 .features9 .timeline-panel p {
   font-family: 'Open Sans', sans-serif;
 }
 .features9 .date-normal p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .features9 .date-inverted p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
 #menu-1 .hide-buttons .nav-btn {
@@ -720,8 +720,6 @@ blockquote {
 }
 #menu-1 .navbar-caption {
   color: #ffffff;
-  font-family: 'Arvo', serif;
-  font-size: 22px;
 }
 #menu-1 .navbar-toggler {
   color: #ffffff;

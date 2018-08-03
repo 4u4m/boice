@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Supplate",
+    "name": "BOICE",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
@@ -13,8 +13,8 @@
         "infoColor": "#3498db",
         "warningColor": "#f1c40f",
         "dangerColor": "#e74c3c",
-        "titleFont": "Open Sans",
-        "subtitleFont": "Open Sans",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -28,13 +28,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
     "uniqCompNum": 27,
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": "",
-    "cookiesAlert": "",
-    "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -53,10 +49,7 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Arvo', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i",
-              "font-size": "22px"
+              "color": "#ffffff"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -118,7 +111,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">FEATURES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">FEATURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -135,7 +128,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Supplate</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BOICE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -170,8 +163,8 @@
             "overlayOpacity": 0.9
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "SNS 연동형<br>홈페이지<br>",
-          "text": "<span style=\"font-style: normal;\">SNS 연동 및 공유형 최적화 홈페이지</span>",
+          "title": "Rainbow<br>Voice<br>",
+          "text": "<span style=\"font-style: normal;\">국내 최초 성우 전문 에이전시</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
           "alias": "colorm/components",
           "_tags": [
